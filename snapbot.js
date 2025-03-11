@@ -188,4 +188,4 @@ class SnapBot {
   }
 }
 
-module.exports = SnapBot;
+module.exports = SnapBot;npm run bot
